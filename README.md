@@ -4,6 +4,10 @@ An AI-powered data analysis application built with **Python, Streamlit, Groq, Pa
 
 The project also includes a separate **LangChain-based conversational chatbot** implementation.
 
+🚀 **Live Demo:** https://ai-data-analyst-bot.streamlit.app/
+
+💻 **Source Code:** https://github.com/Vinutha-Reddy/AI-Data-Analyst-Bot
+
 ---
 
 ## 🚀 Features
